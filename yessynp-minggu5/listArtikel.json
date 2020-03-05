@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nim": 1741720105,
+      "nama": "Yessy Nindi Pratiwi",
+      "alamat": "Malang",
+      "hp": "083830397490",
+      "angkatan": 2017,
+      "status": "aktif"
+    },
+    {
+      "id": 2,
+      "nim": 1741720237,
+      "nama": "Dinda Vindarina P",
+      "alamat": "Sidoarjo",
+      "hp": "082254148320",
+      "angkatan": 2017,
+      "status": "lulus"
+    },
+    {
+      "id": 1583416970439,
+      "nim": "1741720871",
+      "nama": "Embriani Dewi L",
+      "alamat": "Gresik",
+      "hp": "08277354421",
+      "angkatan": "2016",
+      "status": "Lulus"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
