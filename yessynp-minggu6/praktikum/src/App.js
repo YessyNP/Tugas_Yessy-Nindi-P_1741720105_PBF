@@ -96,11 +96,11 @@ function PrivateRoute({children, ...rest}) {
 }
 
 function PublicPage(){
-  return <h3>Public</h3>;
+  return <h3 >Public </h3>;
 }
 
 function ProtectedPage(){
-  return <h3>Private</h3>;
+  return <h3> Private </h3>;
 }
 
 function LoginPage(){
