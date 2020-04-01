@@ -1,0 +1,45 @@
+body {
+  background-image: url(http://1.bp.blogspot.com/-fBwVdie8yUM/UEhfbJP-8nI/AAAAAAAAA-I/4x0yreRty1A/s1600/beautiful-sunset-full-HD-nature-background-wallpaper-for-laptop-widescreen.jpg);
+
+
+  background-position: center;
+  background-size: cover;
+  padding: 20px;
+  margin: 0;
+}
+.title {
+  color:rgb(255, 255, 255);
+}
+.subtitle {
+  color: rgb(253, 253, 253);
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #23BA91;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
